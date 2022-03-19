@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../model/user_model.dart';
+import '../../model/user_model.dart';
 
-class ListTileWidget extends StatelessWidget {
-  const ListTileWidget({Key? key, required this.userModel,}) : super(key: key);
+
+class CardWidget extends StatelessWidget {
+  const CardWidget({Key? key, required this.userModel,}) : super(key: key);
   final UserModel userModel;
 
   @override
