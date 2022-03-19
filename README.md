@@ -1,4 +1,4 @@
-# responsive_layout
+# Responsive Layout
 
 A new Flutter project.
 
